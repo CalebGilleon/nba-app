@@ -3,8 +3,10 @@ import Hero from "./Hero";
 const StandingsView = () => {
     return (
         <>
-            <Hero />
-            <h1>Standings</h1>
+            <Hero text="These are the Standings"/>
+            <div className="container">
+                some stuff in here
+            </div>
         </>
     )
 }

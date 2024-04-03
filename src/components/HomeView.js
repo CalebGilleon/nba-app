@@ -3,8 +3,7 @@ import Hero from "./Hero";
 const HomeView = () => {
     return (
         <>
-            <Hero />
-            <h1>Hello NBA fans!</h1>
+            <Hero text="This is the Home View"/>
         </>
     )
 }
