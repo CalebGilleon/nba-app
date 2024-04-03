@@ -10,6 +10,7 @@ function App() {
   return (
     <div>
       <BrowserRouter>
+      <Navbar />
         <Routes>
           <Route path="/" element={<HomeView />} />
           <Route path="/standings" element={<StandingsView />} />
