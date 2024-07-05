@@ -19,6 +19,7 @@ function App() {
           <Route path="/" element={<HomeView />} />
           <Route path="/standings" element={<StandingsView />} />
           <Route path="/teams" element={<NBATeams />} />
+          <Route path="/*" element={<HomeView />} />
           <Route
             path="/search"
             // element={
