@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/nba-app/static/css/main.e6c13ad2.css",
-    "main.js": "/nba-app/static/js/main.05614f1c.js",
+    "main.js": "/nba-app/static/js/main.493cf125.js",
     "static/js/453.89829f5b.chunk.js": "/nba-app/static/js/453.89829f5b.chunk.js",
     "index.html": "/nba-app/index.html",
     "main.e6c13ad2.css.map": "/nba-app/static/css/main.e6c13ad2.css.map",
-    "main.05614f1c.js.map": "/nba-app/static/js/main.05614f1c.js.map",
+    "main.493cf125.js.map": "/nba-app/static/js/main.493cf125.js.map",
     "453.89829f5b.chunk.js.map": "/nba-app/static/js/453.89829f5b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.05614f1c.js"
+    "static/js/main.493cf125.js"
   ]
 }
